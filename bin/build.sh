@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build --tag concordance image
+docker build --tag emorymerryman/concordance image
